@@ -1,0 +1,17 @@
+﻿ID;Individual;Indiv_ID;Habitat;Behaviour;Year
+1;1;1;Grass;Foraging;2008
+2;1;2;Forest;Socialising;2008
+3;1;3;Forest;Socialising;2008
+4;1;4;Grass;Foraging;2008
+5;1;5;Rock;Transiting;2008
+6;2;1;Grass;Foraging;2008
+7;2;2;Grass;Socialising;2008
+8;2;3;Grass;Foraging;2008
+9;2;4;Grass;Foraging;2008
+10;2;5;Grass;Socialising;2008
+11;3;1;Forest;Transiting;2008
+12;3;2;Forest;Socialising;2008
+13;4;1;Forest;Socialising;2008
+14;4;2;Forest;Socialising;2008
+15;4;3;Grass;Transiting;2008
+16;5;1;Rock;Transiting;2008
